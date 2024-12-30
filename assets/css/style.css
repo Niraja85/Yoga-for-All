@@ -4,16 +4,37 @@
     margin: 0;
     box-sizing: border-box;
 }
+/* General styles */
+body {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    color: black;
+}
 
 /* Header */
 header {
-    background-color: aqua;
+    background-color: #006994;
+    width: 100%;
+    position: sticky;
+    display: flex;
+    margin: 0 auto 20px auto;
+    flex-direction: column;
+    }
+
+.wrapper{
+    display: flex;
+}
+h1 {
+    padding: 50px 10px;
+    color: white;
 }
 /* Main content */
 main {
-    background-color: bisque;
+    background-color: #99e1ff;
+    flex: 1 0 auto;
 }
 /* Footer */
 footer {
-    background-color: orchid;
+    background-color: #daf4fe;
 }
