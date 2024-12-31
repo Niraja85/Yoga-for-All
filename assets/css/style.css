@@ -15,9 +15,11 @@ body {
 
 /* Header */
 header {
-    background-color: #9fd4a3;
+    background-color: white;
     width: 100%;
-    position: sticky;
+    position: fixed;
+    padding: 0;
+    box-shadow: 0 2px 2px black;
     }
 /* Main content */
 main {
