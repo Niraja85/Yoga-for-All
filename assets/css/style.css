@@ -21,6 +21,10 @@ header {
     padding: 0;
     box-shadow: 0 2px 2px black;
     }
+#logo {
+    height: 120px;
+    width: 120px;
+}
 header a {
     text-decoration: none;
 }
@@ -29,11 +33,20 @@ header a {
 }
 #menu > li {
     margin-bottom: 1em;
+    list-style-type: none;
+
 }
 .active {
-    font-weight: bold
-    ;
+    font-weight: bold;
 }
+nav {
+    position: absolute;
+    width: 100%;
+    left: 0;
+    padding: 0 1rem;
+    display: none;
+}
+
 
 /* Main content */
 main {
