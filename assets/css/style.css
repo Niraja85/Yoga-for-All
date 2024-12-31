@@ -1,5 +1,5 @@
 
-/* Asterik wildcard selector used to override default styles added by the browser */
+/* Asterik wildcard selector to override default styles added by the browser */
 * {
     padding: 0;
     margin: 0;
@@ -15,27 +15,16 @@ body {
 
 /* Header */
 header {
-    background-color: #006994;
+    background-color: #9fd4a3;
     width: 100%;
     position: sticky;
-    display: flex;
-    margin: 0 auto 20px auto;
-    flex-direction: column;
     }
-
-.wrapper{
-    display: flex;
-}
-h1 {
-    padding: 50px 10px;
-    color: white;
-}
 /* Main content */
 main {
-    background-color: #99e1ff;
+    background-color: #BEE3BA;
     flex: 1 0 auto;
 }
 /* Footer */
 footer {
-    background-color: #daf4fe;
+    background-color: #ddf2d1;
 }
