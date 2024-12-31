@@ -21,6 +21,20 @@ header {
     padding: 0;
     box-shadow: 0 2px 2px black;
     }
+header a {
+    text-decoration: none;
+}
+#menu {
+    font-size: 20px;
+}
+#menu > li {
+    margin-bottom: 1em;
+}
+.active {
+    font-weight: bold
+    ;
+}
+
 /* Main content */
 main {
     background-color: #BEE3BA;
