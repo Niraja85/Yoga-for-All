@@ -10,7 +10,7 @@ body {
     min-height: 100vh;
     display: flex;
     flex-direction: column;
-    color: black;
+    color: #3a3a3a;
 }
 
 /* Header */
@@ -20,6 +20,9 @@ header {
     position: fixed;
     padding: 0;
     box-shadow: 0 2px 2px black;
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
     }
 #logo {
     height: 120px;
@@ -34,11 +37,14 @@ header a {
 #menu > li {
     margin-bottom: 1em;
     list-style-type: none;
+    display: flex;
+    justify-content: flex-end;
 
 }
 .active {
     font-weight: bold;
 }
+/* Navbar dropdown toggle */
 nav {
     position: absolute;
     width: 100%;
@@ -46,8 +52,13 @@ nav {
     padding: 0 1rem;
     display: none;
 }
-
-
+/* Nav toggle */
+#nav-toggle:checked~nav {
+    display: block;
+}
+.nav-toggle-label {
+    font-size: 2rem;
+}
 /* Main content */
 main {
     background-color: #BEE3BA;
