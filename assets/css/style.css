@@ -1,4 +1,6 @@
-
+/* Google fonts import */
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&family=Oswald:wght@200..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&family=Oswald:wght@200..700&display=swap');
 /* Asterik wildcard selector to override default styles added by the browser */
 * {
     padding: 0;
@@ -11,6 +13,7 @@ body {
     display: flex;
     flex-direction: column;
     color: #3a3a3a;
+    font-family: 'Montserrat', sans-serif;
 }
 
 /* Header */
@@ -23,6 +26,8 @@ header {
     display: flex;
     justify-content: space-between;
     align-items: baseline;
+    max-height: 120px;
+
     }
 #logo {
     height: 120px;
@@ -35,11 +40,12 @@ header a {
     font-size: 20px;
 }
 #menu > li {
-    margin-bottom: 1em;
+    margin-bottom: 0.5em;
     list-style-type: none;
     display: flex;
     justify-content: flex-end;
-
+    padding-right: 20px;
+    padding-left: 10px;
 }
 .active {
     font-weight: bold;
@@ -56,6 +62,9 @@ nav {
 #nav-toggle:checked~nav {
     display: block;
 }
+#nav-toggle {
+    display: none;
+}
 .nav-toggle-label {
     font-size: 2rem;
 }
@@ -63,6 +72,7 @@ nav {
 main {
     background-color: #BEE3BA;
     flex: 1 0 auto;
+    margin-top: 124px;
 }
 /* Footer */
 footer {
