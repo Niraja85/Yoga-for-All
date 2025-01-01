@@ -78,3 +78,57 @@ main {
 footer {
     background-color: #ddf2d1;
 }
+/* Media query for tablets and larger (768px and up) */
+@media screen and (min-width:768px) {
+    /* Header */
+nav {
+    display: block;
+    box-shadow: none;
+    width: fit-content;
+    position: relative;
+    padding-right: 1rem;
+}
+
+#menu {
+    display:flex;
+}
+menu > li {
+    padding-left: 1rem;
+}
+.nav-toggle-label {
+    display: none;
+}
+#logo {
+    height:150px;
+    width: 150px;
+}
+header {
+    max-height: 154px;
+}
+/* Main content */
+main {
+    /* Push main content down to accomodate larger header and logo */
+    margin-top: 154px;
+}
+   
+}
+/* Large screens (laptops and desktops, 992px and up) */
+@media screen and (min-width: 992px){
+    #menu a:hover{
+        color: red;
+        font: bold;
+    }
+    #logo {
+        height: 200px;
+        width: 200px;
+    }
+    header {
+        max-height: 204px;
+    }
+    /* Main content */
+    main {
+        /* Push main content down to accomodate larger header and logo */
+        margin-top: 204px;
+    }
+    
+}
