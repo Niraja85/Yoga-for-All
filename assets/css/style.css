@@ -78,6 +78,9 @@ main {
 footer {
     background-color: #ddf2d1;
 }
+.text-right {
+    text-align: right;
+}
 /* Media query for tablets and larger (768px and up) */
 @media screen and (min-width:768px) {
     /* Header */
