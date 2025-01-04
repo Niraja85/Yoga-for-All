@@ -27,6 +27,7 @@ header {
     justify-content: space-between;
     align-items: baseline;
     max-height: 120px;
+    z-index: 99;
 
     }
 #logo {
@@ -66,18 +67,21 @@ nav {
     display: none;
 }
 .nav-toggle-label {
-    font-size: 2rem;
+    font-size: 2rem;   
 }
 /* Main content */
 main {
-    background-color: #BEE3BA;
     flex: 1 0 auto;
     margin-top: 124px;
 }
-/* Footer */
-footer {
-    background-color: #ddf2d1;
+
+/* Hero section */
+#hero {
+    height: 660px;
+    width: 100%;
+    background: url("../images/heroimage.jpg") no-repeat center center/cover;
 }
+/* Footer */
 .contact {
     width: 50%;
     float: left;
