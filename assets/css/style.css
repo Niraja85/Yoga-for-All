@@ -15,6 +15,9 @@ body {
     color: #3a3a3a;
     font-family: 'Montserrat', sans-serif;
 }
+h1, h2, h3 {
+    font-family: 'Oswald' , sans-serif;
+}
 
 /* Header */
 header {
@@ -28,7 +31,6 @@ header {
     align-items: baseline;
     max-height: 120px;
     z-index: 99;
-
     }
 #logo {
     height: 120px;
@@ -80,6 +82,19 @@ main {
     height: 660px;
     width: 100%;
     background: url("../images/heroimage.jpg") no-repeat center center/cover;
+}
+#cover-text {
+    background-color: rgba(13, 180, 185, 0.5);
+    width: 70%;
+    position: absolute;
+    font-size: 100%;
+    min-height: 100px;
+    margin-top: 30px;   
+}
+#cover-text > h2, #cover-text > h3 {
+    padding-left: 20px;
+    padding-top: 10px;
+    color: #073932;
 }
 /* Footer */
 .contact {
@@ -133,6 +148,14 @@ main {
     /* Push main content down to accomodate larger header and logo */
     margin-top: 154px;
 }
+/* Hero section */
+#cover-text {
+    width: 50%;
+    min-height: 120px;
+}
+#cover-text > h2, #cover-text > h3 {
+    font-size: 30px;
+}
  /* Footer */
  .contact {
     width: 70%;
@@ -175,6 +198,10 @@ main {
     main {
         /* Push main content down to accomodate larger header and logo */
         margin-top: 204px;
+    }
+    /* Hero section */
+    #cover-text {
+        width: 30%;
     }
  /* Footer */
  .contact {
