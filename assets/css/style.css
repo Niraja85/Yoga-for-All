@@ -96,6 +96,8 @@ main {
     padding-top: 10px;
     color: #073932;
 }
+
+
 /* Footer */
 .contact {
     width: 50%;
@@ -156,6 +158,7 @@ main {
 #cover-text > h2, #cover-text > h3 {
     font-size: 30px;
 }
+ 
  /* Footer */
  .contact {
     width: 70%;
