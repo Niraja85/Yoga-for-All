@@ -144,8 +144,13 @@ main {
     flex: 1 0 auto;
 }
 #courses {
-    padding: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
 }
+#courses > section {
+    background-color: #CEEDED;  
+}
+
 .yoga-class-image {
     text-align: justify;
 }
@@ -189,7 +194,7 @@ main {
     display: block;
     margin: 0 auto;
     height:300px;
-    width: 350px;
+    width: 300px;
 }
 /* Footer */
 footer {
@@ -275,6 +280,9 @@ main p {
 main h3 {
     font-size: 30px;
 }
+main h2 {
+    font-size: 40px;
+}
 .yoga-class-image img {
     height: 400px;
     width: 550px;
@@ -295,8 +303,6 @@ main h3 {
     height: 400px;
     width: 550px;
 }
-
-
  /* Footer */
  .contact {
     width: 70%;
@@ -348,6 +354,28 @@ main h3 {
 #contact-form-section {
     margin-left: 350px;
 }
+/* Courses page section */
+.yoga-class-image img {
+    height: 400px;
+    width:650px;
+}
+.asana-image img {
+    height: 450px;
+    width:650px;
+}
+.stretching-image img {
+    height: 400px;
+    width: 650px;
+}
+.yoga-pose-image img {
+    height: 450px;
+    width: 650px;
+}
+.aerial-yoga-image img {
+    height: 550px;
+    width: 650px;
+}
+
  /* Footer */
  .contact {
     margin-top: auto;
