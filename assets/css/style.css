@@ -196,6 +196,12 @@ main {
     height:300px;
     width: 300px;
 }
+/* Gallery page */
+#photos img {
+width: 100%
+}
+
+
 /* Footer */
 footer {
     background-color: rgba(13, 180, 185, 0.5); 
