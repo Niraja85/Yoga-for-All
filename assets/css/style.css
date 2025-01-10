@@ -241,8 +241,6 @@ footer {
         column-gap: 0;
     }
 }
-    
-
 /* Media query for tablets and larger (768px and up) */
 @media screen and (min-width:768px) {
     /* Header */
@@ -345,8 +343,7 @@ main h2 {
  }
  /* Gallery page */
  #photos {
-    column-count: 3;
-    
+    column-count: 3;  
  }
 }
 /* Large screens (laptops and desktops, 992px and up) */
