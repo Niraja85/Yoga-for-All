@@ -72,7 +72,7 @@ nav {
 /* Main content */
 main {
     flex: 1 0 auto;
-    margin-top: 55px;
+    margin-top: 60px;
 }
 #about-yoga {
     margin-left: 3%;
@@ -156,8 +156,8 @@ main {
 .yoga-class-image img {
     display: block;
     margin: 0 auto;
-    width: 300px;
-    height: 200px;
+    width: 60%;
+    
 }
 .asana-image {
     text-align: justify;
@@ -165,8 +165,7 @@ main {
 .asana-image img {
     display:block;
     margin: 0 auto;
-    width: 300px;
-    height: 200px;
+    width: 60%;
 }
 .stretching-image {
     text-align: justify;
@@ -174,8 +173,7 @@ main {
 .stretching-image img {
     display:block;
     margin: 0 auto;
-    width: 300px;
-    height: 300px;
+    width: 60%;
 }
 .yoga-pose-image {
     text-align: justify;
@@ -183,8 +181,7 @@ main {
 .yoga-pose-image img {
     display: block;
     margin: 0 auto;
-    width: 300px;
-    height: 300px;
+    width: 60%;
 }
 .aerial-yoga-image {
     text-align: justify;
@@ -192,8 +189,7 @@ main {
 .aerial-yoga-image img {
     display: block;
     margin: 0 auto;
-    height:350px;
-    width: 300px;
+    width: 60%;
 }
 /* Gallery page */
 
@@ -295,7 +291,7 @@ menu > li {
 /* Main content */
 main {
     /* Push main content down to accomodate larger header and logo */
-    margin-top: 59px;
+    margin-top: 65px;
 }
 /* Hero section */
 #cover-text {
@@ -323,26 +319,7 @@ main h3 {
 main h2 {
     font-size: 40px;
 }
-.yoga-class-image img {
-    height: 400px;
-    width: 550px;
-}
-.asana-image img {
-    height: 400px;
-    width: 550px;
-}
-.stretching-image img {
-    height: 400px;
-    width: 550px;
-}
-.yoga-pose-image img {
-    height: 400px;
-    width: 550px;
-}
-.aerial-yoga-image img {
-    height: 400px;
-    width: 450px;
-}
+
  /* Footer */
  .contact {
     width: 70%;
@@ -377,13 +354,10 @@ main h2 {
         color: red;
         font: bold;
     }
-    header {
-        max-height: 204px;
-    }
     /* Main content */
     main {
         /* Push main content down to accomodate larger header and logo */
-        margin-top: 120px;
+        margin-top: 100px;
     }
     /* Hero section */
     #cover-text {
@@ -394,26 +368,7 @@ main h2 {
     margin-left: 350px;
 }
 /* Courses page section */
-.yoga-class-image img {
-    height: 400px;
-    width:650px;
-}
-.asana-image img {
-    height: 450px;
-    width:650px;
-}
-.stretching-image img {
-    height: 400px;
-    width: 650px;
-}
-.yoga-pose-image img {
-    height: 450px;
-    width: 650px;
-}
-.aerial-yoga-image img {
-    height: 550px;
-    width: 400px;
-}
+
  /* Footer */
  .contact {
     margin-top: auto;
