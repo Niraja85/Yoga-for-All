@@ -29,12 +29,10 @@ header {
     display: flex;
     justify-content: space-between;
     align-items: baseline;
-    max-height: 120px;
     z-index: 99;
     }
 #logo {
-    height: 120px;
-    width: 120px;
+    width: 15%;
 }
 header a {
     text-decoration: none;
@@ -69,17 +67,21 @@ nav {
     display: none;
 }
 .nav-toggle-label {
-    font-size: 2rem;   
+    font-size: 2rem;       
 }
 /* Main content */
 main {
     flex: 1 0 auto;
-    margin-top: 124px;
+    margin-top: 55px;
+}
+#about-yoga {
+    margin-left: 3%;
+    margin-right: 3%;
 }
 
 /* Hero section */
 #hero {
-    height: 660px;
+    height: 750px;
     width: 100%;
     background: url("../images/heroimage.jpg") no-repeat center center/cover;
 }
@@ -107,7 +109,7 @@ main {
     margin-top: 30px;
     margin-bottom: 30px;
     background-color: rgba(13, 180, 185, 0.5);
-    padding: 20px;
+    padding: 20px;    
 }
 .text-center {
     text-align: center;
@@ -137,7 +139,7 @@ main {
     cursor: pointer;
 }
 #contact-form button:active {
-    background-color: #06402B;
+    background-color: red;
 } 
 /* Courses page */
 #courses {
@@ -202,7 +204,9 @@ line-height: 1em;
 #photos {
     line-height: 0;
 }
+
 /* Calender page */
+
 table {
     height: 40%;
     width: 80%;
@@ -210,7 +214,6 @@ table {
     margin: 20px auto;
     left: 10px;
     overflow-y: scroll;
-    overflow-x: scroll;
 }
 th {
     background: #009dc4;
@@ -289,17 +292,10 @@ menu > li {
 .nav-toggle-label {
     display: none;
 }
-#logo {
-    height:150px;
-    width: 150px;
-}
-header {
-    max-height: 154px;
-}
 /* Main content */
 main {
     /* Push main content down to accomodate larger header and logo */
-    margin-top: 154px;
+    margin-top: 59px;
 }
 /* Hero section */
 #cover-text {
@@ -381,21 +377,17 @@ main h2 {
         color: red;
         font: bold;
     }
-    #logo {
-        height: 200px;
-        width: 200px;
-    }
     header {
         max-height: 204px;
     }
     /* Main content */
     main {
         /* Push main content down to accomodate larger header and logo */
-        margin-top: 204px;
+        margin-top: 120px;
     }
     /* Hero section */
     #cover-text {
-        width: 30%;
+        width: 40%;
     }
 /* Form section */
 #contact-form-section {
