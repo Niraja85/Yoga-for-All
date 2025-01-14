@@ -156,7 +156,7 @@ main {
 .yoga-class-image img {
     display: block;
     margin: 0 auto;
-    width: 60%;
+    width: 50%;
     
 }
 .asana-image {
@@ -173,7 +173,7 @@ main {
 .stretching-image img {
     display:block;
     margin: 0 auto;
-    width: 60%;
+    width: 50%;
 }
 .yoga-pose-image {
     text-align: justify;
@@ -189,7 +189,7 @@ main {
 .aerial-yoga-image img {
     display: block;
     margin: 0 auto;
-    width: 60%;
+    width: 40%;
 }
 /* Gallery page */
 
