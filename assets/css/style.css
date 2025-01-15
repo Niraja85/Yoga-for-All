@@ -231,6 +231,15 @@ th, td {
     text-align: left;
     width: 33.3%;
 }
+/* Thank you page */
+
+#thankyou {
+    padding-top: 10%;
+}
+#thankyou > p {
+    padding-left: 3%;
+    padding-right: 3%;
+}
 
 /* Footer */
 footer {
@@ -305,7 +314,7 @@ menu > li {
 /* Main content */
 main {
     /* Push main content down to accomodate larger header and logo */
-    margin-top: 65px;
+    margin-top: 60px;
 }
 /* Hero section */
 #cover-text {
@@ -371,7 +380,7 @@ main h2 {
     /* Main content */
     main {
         /* Push main content down to accomodate larger header and logo */
-        margin-top: 140px;
+        margin-top: 90px;
     }
     /* Hero section */
     #cover-text {
@@ -399,4 +408,12 @@ main h2 {
  #photos {
     column-count: 4;
  }
+}
+/* Large screens (laptops and desktops, 1200px and up) */
+@media screen and (min-width: 1200px){
+/* Main content */
+/* Push main content down to accomodate larger header and logo */
+main {
+    margin-top: 150px;
+}
 }
