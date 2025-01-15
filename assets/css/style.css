@@ -156,8 +156,7 @@ main {
 .yoga-class-image img {
     display: block;
     margin: 0 auto;
-    width: 50%;
-    
+    width: 50%;   
 }
 .asana-image {
     text-align: justify;
@@ -262,8 +261,23 @@ footer {
     list-style-type: none;
     font-size: 20px;
 }
+/* Media query for large and landscape phones (400px and up) */
+@media screen and (min-width:400px) {
+    /* Main content */
+    /* Push main content down to accomodate larger header and logo */
+    main {
+        margin-top: 90px;
+    }
+    
+}
 /* Media query for large and landscape phones (576px and up) */
 @media screen and (min-width:576px) {
+    /* Main content */
+     /* Push main content down to accomodate larger header and logo */
+main {
+    margin-top: 120px;
+}
+/* Gallery page */
     #photos {
         column-count: 2;
         column-gap: 0;
@@ -357,7 +371,7 @@ main h2 {
     /* Main content */
     main {
         /* Push main content down to accomodate larger header and logo */
-        margin-top: 100px;
+        margin-top: 140px;
     }
     /* Hero section */
     #cover-text {
