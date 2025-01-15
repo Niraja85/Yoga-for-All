@@ -99,17 +99,18 @@ main {
     color: #06402B;
 }
 /* Contact-form section */
-
+/* Display flex added to align the form in the center of the screen */
 #contact-form-section {
-    margin-left: 10px;
-    margin-right: 10px;
+    display: flex;
+    justify-content: center;
 }
-#contact-form {
+/* Styled to match header and footer colors */
+#contact-form { 
     border-radius: 5px;
-    margin-top: 30px;
-    margin-bottom: 30px;
+    margin: 30px;
     background-color: rgba(13, 180, 185, 0.5);
     padding: 20px;    
+    width: 700px;
 }
 .text-center {
     text-align: center;
@@ -275,7 +276,7 @@ footer {
     /* Main content */
     /* Push main content down to accomodate larger header and logo */
     main {
-        margin-top: 90px;
+        margin-top: 65px;
     }
     
 }
@@ -284,7 +285,7 @@ footer {
     /* Main content */
      /* Push main content down to accomodate larger header and logo */
 main {
-    margin-top: 120px;
+    margin-top: 90px;
 }
 /* Gallery page */
     #photos {
@@ -324,11 +325,6 @@ main {
 #cover-text > h2, #cover-text > h3 {
     font-size: 30px;
 }
-/* Form section */
-#contact-form-section {
-    width: 500px;
-    margin-left: 150px;
-}
 /* Courses page */
 .text-center {
     font-size: 40px;
@@ -342,7 +338,6 @@ main h3 {
 main h2 {
     font-size: 40px;
 }
-
  /* Footer */
  .contact {
     width: 70%;
@@ -386,10 +381,6 @@ main h2 {
     #cover-text {
         width: 40%;
     }
-/* Form section */
-#contact-form-section {
-    margin-left: 350px;
-}
 /* Courses page section */
 
  /* Footer */
