@@ -12,7 +12,7 @@ body {
     min-height: 100vh;
     display: flex;
     flex-direction: column;
-    color: #3a3a3a;
+    color: black;
     font-family: 'Montserrat', sans-serif;
 }
 h1, h2, h3 {
@@ -33,18 +33,20 @@ header {
     }
 #logo {
     width: 15%;
+    padding: 1%;
 }
 header a {
     text-decoration: none;
 }
 #menu {
     font-size: 20px;
+    
 }
 #menu > li {
     margin-bottom: 0.5em;
-    list-style-type: none;
     display: flex;
     justify-content: flex-end;
+    list-style-type: none;
     padding-right: 20px;
     padding-left: 10px;
 }
@@ -78,7 +80,11 @@ main {
     margin-left: 3%;
     margin-right: 3%;
 }
-
+/* text center class added to align any element in the center of the page */
+.text-center {
+    text-align: center;
+    color: #009dc4;
+}
 /* Hero section */
 #hero {
     height: 750px;
@@ -99,12 +105,13 @@ main {
     color: #06402B;
 }
 /* Contact-form section */
+
 /* Display flex added to align the form in the center of the screen */
 #contact-form-section {
     display: flex;
     justify-content: center;
 }
-/* Styled to match header and footer colors */
+/* Styled form to match header and footer colors */
 #contact-form { 
     border-radius: 5px;
     margin: 30px;
@@ -112,10 +119,7 @@ main {
     padding: 20px;    
     width: 700px;
 }
-.text-center {
-    text-align: center;
-    color: #009dc4;
-}
+
 #fname, #lname, #email {
     width: 90%;
     height: 50px;
@@ -165,7 +169,7 @@ main {
 .asana-image img {
     display:block;
     margin: 0 auto;
-    width: 60%;
+    width: 55%;
 }
 .stretching-image {
     text-align: justify;
@@ -181,7 +185,7 @@ main {
 .yoga-pose-image img {
     display: block;
     margin: 0 auto;
-    width: 60%;
+    width: 55%;
 }
 .aerial-yoga-image {
     text-align: justify;
@@ -202,7 +206,10 @@ line-height: 1em;
 }
 
 /* Calender page */
-
+#calender {
+    padding: 5%;
+    
+}
 table {
     height: 40%;
     width: 80%;
@@ -251,6 +258,7 @@ footer {
     border-radius: 5px;
     box-shadow: 3px 3px 5px;
     flex-shrink: 0;
+
 }
 .contact {
     width: 50%;
@@ -271,14 +279,26 @@ footer {
     list-style-type: none;
     font-size: 20px;
 }
+/* Media query for mobile phones (min-width: 320px) and (max-width: 767px) */
+@media screen and (min-width: 320px) and (max-width: 767px) {
+    /* Giving border to dropdown menu  and aligning it to the right side */
+    #menu {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    width: 200px;
+    background-color: #f1f1f1;
+    margin-top: 60px; 
+    margin-left: 40%;
+    }
+}
 /* Media query for large and landscape phones (400px and up) */
 @media screen and (min-width:400px) {
     /* Main content */
     /* Push main content down to accomodate larger header and logo */
     main {
         margin-top: 65px;
-    }
-    
+    }   
 }
 /* Media query for large and landscape phones (576px and up) */
 @media screen and (min-width:576px) {
@@ -304,7 +324,7 @@ nav {
     padding-right: 1rem;
 }
 #menu {
-    display:flex;
+    display: flex;
 }
 menu > li {
     padding-left: 1rem;
