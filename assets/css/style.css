@@ -105,7 +105,6 @@ main {
     color: #06402B;
 }
 /* Contact-form section */
-
 /* Display flex added to align the form in the center of the screen */
 #contact-form-section {
     display: flex;
@@ -152,9 +151,8 @@ main {
     padding-right: 10px;
 }
 #courses > section {
-    background-color: #CEEDED;  
+    background-color: #CEEDED;
 }
-
 .yoga-class-image {
     text-align: justify;
 }
@@ -206,6 +204,27 @@ line-height: 1em;
 }
 
 /* Calender page */
+#schedule {
+    background-color: white;
+    /* Makes it responsive without using media-query */
+    display: flex;
+    flex-wrap: wrap;
+}
+#schedule div {
+    text-align: center;
+    background-color: #ffe5ec;
+    /* Each div will expand to fill the space in its rows */
+    padding: 10px;
+    flex-basis: 200px;
+    flex-grow: 1;
+    border: 2px solid white;
+}
+#schedule h3 {
+    color:#009dc4;
+}
+.bright {
+    color: #fb6f92;
+}
 
 /* Thank you page */
 
