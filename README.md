@@ -10,6 +10,10 @@ The studio holds special classes for expecting mothers and new moms as well as c
 * Navigation Bar
     - Contains links to Home, Courses, Calender and Gallery and is responsive on all devices.
     - This will help users to easily navigate across different pages on all devices.
+    ![Navigation](docs/readme_images/navbar.jpg)
+    -Navigation menu for mobile phones has a toggle menu option which when clicked upon directs the user to all the links.
+    ![Mobile-navigation](docs/readme_images/nav-mobile.jpg)
+
 
         
 
