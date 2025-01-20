@@ -18,6 +18,22 @@ The studio holds special classes for expecting mothers and new moms as well as c
   
     ![Mobile-navigation](https://github.com/Niraja85/Yoga-for-All/blob/d20969efca00cd908c4ca571f3000e411c96b71c/docs/readme_images/nav-mobile.webp)
 
+*Favicon
+    - A site wide Favicon is displayed with a yoga emblem and name of the studio 'Yoga for All' displayed.
+    -This icon image appears in the tabs header which helps ths user to easily identify the webpage if they have multiple tabs open.
+    img
+
+###Landing Page 
+* Landing page Image
+    -The landing page has a photograph with a text written on it that will help the user identify what site is about.
+    -This section has an image on Yoga in mountains that is attractive and helps to direct user#s attention.
+  img
+
+
+
+
+    
+
   
 
 
