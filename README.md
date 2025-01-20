@@ -11,7 +11,9 @@ The studio holds special classes for expecting mothers and new moms as well as c
 * Navigation Bar
     - Contains links to Home, Courses, Calender and Gallery and is responsive on all devices.
     - This will help users to easily navigate across different pages on all devices.
-    ![Navigation](https://github.com/Niraja85/Yoga-for-All/blob/99547a46fff39bdaa8f5d937e4867da85785e92d/navbar.jpg)
+      
+    ![Navigation](https://github.com/Niraja85/Yoga-for-All/blob/0db8bbe0ea6bcbfb9010f788549e6d676e32cad8/docs/readme_images/navbar.jpg)
+
     -Navigation menu for mobile phones has a toggle menu option which when clicked upon directs the user to all the links.
     ![Mobile-navigation](https://github.com/Niraja85/Yoga-for-All/blob/77bf1f2012d0337590c6be823e77257f85ac879f/nav-mobile.webp)
 
