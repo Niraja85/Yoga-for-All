@@ -2,7 +2,8 @@
 Yoga for all is a website created for the "Yoga for All" studio located in Nuremberg, Germany to make Yoga accessible to individuals of all age groups and make it a part of their health transformation journey. The studio is equipped with modern Yoga practices like Aerial Yoga that uses hammock strings to teach inversions to traditional Yoga practices like Vinyasa, Hatha and Yin. One can choose any Yoga style and join any class by viewing the calender schedule for that day. 
 
 The studio holds special classes for expecting mothers and new moms as well as children above 3 years of age. There are special coffee meetups for children and parents to have a relaxed, fun-filled meetup time for families. View the live site [here](https://niraja85.github.io/Yoga-for-All/)
-![Mockupimage](https://github.com/Niraja85/Yoga-for-All/blob/15404590955ead299219df2f549bbecfa065f112/mockup.webp)
+
+![Mockupimage](https://github.com/Niraja85/Yoga-for-All/blob/8f372ca1ef316ccd93bf6e9052c8c0b2c73bd37f/docs/readme_images/mockup.webp)
 
 ## Features
 
