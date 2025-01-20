@@ -33,12 +33,16 @@ The studio holds special classes for expecting mothers and new moms as well as c
 ### Landing Page 
 
 * Landing page Image
-
-    -The landing page has a photograph with a text written on it that will help the user identify what site is about.
-  
-    -This section has an image on Yoga in mountains that is attractive and helps to direct user#s attention.
+  * The landing page has a photograph with a text written on it that will help the user identify what site is about.
+  * This section has an image on Yoga in mountains that is attractive and calming that directs user's attention towards the relaxing experience Yoga can bring.
 
 ![Landing page](https://github.com/Niraja85/Yoga-for-All/blob/54c6a53008fdebdbd8327d2de159865e31e73906/docs/readme_images/landing%20image.webp)  
+
+* Website information about 'Yoga For All'
+  * It contains information about the yoga studio, it's location and the general health benefits of Yoga so that it encourages people to join yoga classes.
+  * The user can also see the various age range of people who can join the classes as wel as studio's working hours.
+
+
   
 
 
