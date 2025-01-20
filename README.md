@@ -27,6 +27,8 @@ The studio holds special classes for expecting mothers and new moms as well as c
   
     -This icon image appears in the tabs header which helps ths user to easily identify the webpage if they have multiple tabs open.
 
+  ![Favicon](https://github.com/Niraja85/Yoga-for-All/blob/9e002f98011df5db277ee494db9462de8fe198d6/docs/readme_images/Favicon.webp)
+
 
 ### Landing Page 
 
