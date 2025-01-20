@@ -12,7 +12,7 @@ The studio holds special classes for expecting mothers and new moms as well as c
     - The enitre navogation bar contains links to Logo, Home page, Courses, Calender and Gallery pages and is responsive on all devices.
     - This will help users to easily navigate across different pages on all devices without having to click on the 'back' button.
       
-    ![Navigation](https://github.com/Niraja85/Yoga-for-All/blob/0db8bbe0ea6bcbfb9010f788549e6d676e32cad8/docs/readme_images/navbar.jpg)
+    ![Navigation](https://github.com/Niraja85/Yoga-for-All/blob/03ff0a775e0e204d2e7ec2ff93eaf4e30a767e41/docs/readme_images/navigation%20bar.webp)
 
     -Navigation menu for mobile phones has a toggle menu option which when clicked upon directs the user to all the links.
   
