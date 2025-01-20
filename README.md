@@ -10,7 +10,7 @@ The studio holds special classes for expecting mothers and new moms as well as c
 
 ### Site wide existing features
 
--_Navigation Bar_
+* Navigation Bar
 
     - The enitre navogation bar contains links to Logo, Home page, Courses, Calender and Gallery pages and is responsive on all devices.
     - This will help users to easily navigate across different pages on all devices without having to click on the 'back' button.
@@ -21,17 +21,19 @@ The studio holds special classes for expecting mothers and new moms as well as c
   
     ![Mobile-navigation](https://github.com/Niraja85/Yoga-for-All/blob/d20969efca00cd908c4ca571f3000e411c96b71c/docs/readme_images/nav-mobile.webp)
 
--_Favicon_
+* Favicon
 
-    - A site wide Favicon is displayed with a yoga emblem and name of the studio 'Yoga for All' displayed.
+    -A site wide Favicon is displayed with a yoga emblem and name of the studio 'Yoga for All' displayed.
+  
     -This icon image appears in the tabs header which helps ths user to easily identify the webpage if they have multiple tabs open.
 
 
 ### Landing Page 
 
--_Landing page Image_
+* Landing page Image
 
     -The landing page has a photograph with a text written on it that will help the user identify what site is about.
+  
     -This section has an image on Yoga in mountains that is attractive and helps to direct user#s attention.
   
 
