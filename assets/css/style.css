@@ -108,17 +108,16 @@ main {
 /* Display flex added to align the form in the center of the screen */
 #contact-form-section {
     display: flex;
-    justify-content: center;
+    justify-content: center;  
 }
-/* Styled form to match header and footer colors */
-#contact-form { 
+/* Styled the form to match the footer color */
+.contact-form {
     border-radius: 5px;
     margin: 30px;
     background-color: rgba(13, 180, 185, 0.5);
     padding: 20px;    
     width: 700px;
 }
-
 #fname, #lname, #email {
     width: 90%;
     height: 50px;
