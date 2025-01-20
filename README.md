@@ -15,7 +15,8 @@ The studio holds special classes for expecting mothers and new moms as well as c
     ![Navigation](https://github.com/Niraja85/Yoga-for-All/blob/0db8bbe0ea6bcbfb9010f788549e6d676e32cad8/docs/readme_images/navbar.jpg)
 
     -Navigation menu for mobile phones has a toggle menu option which when clicked upon directs the user to all the links.
-    ![Mobile-navigation](https://github.com/Niraja85/Yoga-for-All/blob/77bf1f2012d0337590c6be823e77257f85ac879f/nav-mobile.webp)
+  
+    ![Mobile-navigation](https://github.com/Niraja85/Yoga-for-All/blob/d20969efca00cd908c4ca571f3000e411c96b71c/docs/readme_images/nav-mobile.webp)
 
 
         
