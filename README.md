@@ -11,12 +11,12 @@ Yoga for all is a website created for the studio 'Yoga for All' ´which is locat
     * Contains links to website logo, home page, courses, gallery and calender pages which are responsive on all devices.
     * This will help users to easily navigate through the different pages without clicking the ‘back’ button.
 
-    ![Navigation](docs/readme-images/navigation.png)
+    ![Navigation](/docs/readme-images/navigation.png)
 
 * Navigation menu for mobile
     * The various page links are on the right side and visible on clicking the toggle. The logo remains on the left side.   
 
-   ![Nav-mobile](docs/readme-images/nav-mobile.png)
+   ![Nav-mobile](/docs/readme-images/nav-mobile.png)
 
 
 
