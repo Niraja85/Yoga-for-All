@@ -2,7 +2,7 @@
 
 Yoga for all is a website created for the studio 'Yoga for All' ´which is located in Nuremberg,Germany. It holds yoga classes for adults, children , prenatal yoga classes and yoga classes for new moms who want to start their fitness journey. It has both traditional yoga classes as well as fairly modern style of yoga as well like aerial yoga which makes exercise fun. Visit the live site [here](https://niraja85.github.io/Yoga-for-All/)
 
-![Mockup](docs/readme-images/mockup.png)
+![Mockup](/docs/readme-images/mockup.png)
 
 ## Features
 
