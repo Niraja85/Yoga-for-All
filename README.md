@@ -154,6 +154,14 @@ Yoga for all is a website created for the studio 'Yoga for All' ´which is locat
 3. Set to responsive and decrease width to 320px.
 4. Click and drag the responsive window to maximum width.
 
+Expected Results:
+   * Website is responsive on all screen sizes and no image is stretched or pixalated.
+   * No horizontal scroll present.
+   * No elements overlap.
+
+Actual Findings:
+    *
+
 
 
 

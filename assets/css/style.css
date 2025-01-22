@@ -74,7 +74,7 @@ nav {
 /* Main content */
 main {
     flex: 1 0 auto;
-    margin-top: 60px;
+    margin-top: 56px;
 }
 #about-yoga {
     margin-left: 3%;
@@ -243,9 +243,6 @@ line-height: 1em;
 #error {
     padding-top: 10%;
 }
-#error > h1, h2 {
-    font-size: medium;
-}
 
 /* Footer */
 footer {
@@ -339,7 +336,7 @@ menu > li {
 /* Main content */
 main {
     /* Push main content down to accomodate larger header and logo */
-    margin-top: 55px;
+    margin-top: 60px;
 }
 /* Hero section */
 #cover-text {
@@ -430,6 +427,6 @@ main h2 {
 /* Main content */
 /* Push main content down to accomodate larger header and logo */
 main {
-    margin-top: 150px;
+    margin-top: 130px;
 }
 }
