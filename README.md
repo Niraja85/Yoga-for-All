@@ -35,7 +35,7 @@ Yoga for all is a website created for the studio 'Yoga for All' ´which is locat
     * The 404 page will help the user to easily get back to the main page if they direct to a broken link 
       without the need of a back button.
 
-[404 error page]
+![404 error page](/docs/readme-images/404error.png)
 
 ### Landing page
 
@@ -95,6 +95,30 @@ Yoga for all is a website created for the studio 'Yoga for All' ´which is locat
     * The gallery is responsive which will allow the user to view the photos on any device they are using.
 
     ![Gallery](/docs/readme-images/gallery.png)
+
+### Existing Features
+* Responsive design
+* Interactive links on Home page and Courses page.
+* Gallery is responsive
+* Contact form and thank you page for successful form submission.
+* Information on classes with modern and ancient yoga practice suitable for all.
+
+### Features Left to Implement
+* To add a collapsible toggle to close the toggle dropdown and better style it.
+* To provide online yoga videos instead of only pictures.
+
+## Design
+
+### Framework
+* General framework of the project was made in Word document, as the balsamiq access licence had expired.
+
+![Design framework 1](/docs/readme-images/framework1.png)
+
+![Design framework 2](/docs/readme-images/framework2.png)
+
+![Design framework 3](/docs/readme-images/framework3.png)
+
+
 
 
 
