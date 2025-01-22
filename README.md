@@ -141,7 +141,12 @@ Yoga for all is a website created for the studio 'Yoga for All' ´which is locat
     * Pixabay was used to download the  free images from https://pixabay.com/
 * Canva
     * Canva was used to design the logo of the website from https://www.canva.com/
-             
+
+## Testing
+
+### Responsiveness    
+*
+
 
 
 

@@ -241,7 +241,10 @@ line-height: 1em;
 
 /* 404 error page */
 #error {
-    padding-top: 30%;
+    padding-top: 10%;
+}
+#error > h1, h2 {
+    font-size: medium;
 }
 
 /* Footer */
