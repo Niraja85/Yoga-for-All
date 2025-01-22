@@ -30,7 +30,30 @@ Yoga for all is a website created for the studio 'Yoga for All' ´which is locat
     
     ![Favicon](/docs/readme-images/favicon.png)
 
-    
+* 404 Page
+    * A 404 page has been implemented and it will be displayed if the user provides any broken link.
+    * The 404 page will help the user to easily get back to the main page if they direct to a broken link 
+      without the need of a back button.
+
+[404 error page]
+
+### Landing page
+
+* Landing page image
+    * It has an attractive and eye-catching image of a person doing yoga in the nature, directing the user to wards the calmness yoga practice brings.
+    * This also has an overlay text which will directly guide the user about what the website is about.
+
+    ![Landing page image](/docs/readme-images/landing.jpg)
+
+* Website information about YOGA FOR ALL studio
+    * The about me section focuses on the goal of the studio, yoga benefits, who can benefit from the classes, the working hours, and the cost.
+    * The information lets the user know about the website.
+
+    ![About website](/docs/readme-images/about.png)
+ 
+
+
+        
 
     
          
@@ -47,3 +70,6 @@ Yoga for all is a website created for the studio 'Yoga for All' ´which is locat
 
 
         
+
+
+[def]: /docs/readme-images/landing.png
