@@ -118,6 +118,31 @@ Yoga for all is a website created for the studio 'Yoga for All' ´which is locat
 
 ![Design framework 3](/docs/readme-images/framework3.png)
 
+## Technologies
+* HTML
+    * The structure of the website was developed using HTML as the main language.
+*CSS
+    *The website was styled using custom CSS in an external file.
+* Cloud IDE
+    * The website was developed using Cloud IDE.
+*Github
+    * Source code is hosted on Github and deployed using Git Pages.  
+*Gitpod
+    * It was used to commit and push the codes during development of the website.
+*  Font Awesome
+    * Icons obtained from https://fontawesome.com/ were used as the Social media links in the footer section. 
+* Tinyjpg
+    * https://tinyjpg.com/ was used to reduce the size of the images used throughout the website
+* Favicon.io
+    * Favicon files were created at https://favicon.io/favicon-converter/  
+* Microsoft Word 
+    * Microsoft Word was used to write the general design and framework of the website.
+* Pixabay
+    * Pixabay was used to download the  free images from https://pixabay.com/
+* Canva
+    * Canva was used to design the logo of the website from https://www.canva.com/
+             
+
 
 
 
