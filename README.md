@@ -47,9 +47,35 @@ Yoga for all is a website created for the studio 'Yoga for All' ´which is locat
 
 * Website information about YOGA FOR ALL studio
     * The about me section focuses on the goal of the studio, yoga benefits, who can benefit from the classes, the working hours, and the cost.
+    * It also has a clickable link 'calender' which can direct the user to the calender.html to view course schedule.
     * The information lets the user know about the website.
 
     ![About website](/docs/readme-images/about.png)
+
+* Contact Form
+    * A contact form has been added to enable users to contact 'YOGA FOR ALL' studio. It will consist of the following fields and attributes:
+        * First Name (required, type=text)  
+        * Last Name (required, type=text)
+        * Email Address (required, type=email)
+        * Message (required, type=textarea)
+    * On submitting the form successfully, the user will be directed to thankyou.html indicating successful form submission.
+    * This will help the users to contact the studio to join the different types of yoga classes, ask information about timings, cost or anything specific related to the courses.
+
+    ![Contact Form](/docs/readme-images/form.png)
+
+    ![Contact Form received](/docs/readme-images/form_received.png)
+
+### Courses page
+* Yoga Courses
+    * Here a brief description about yoga and and its health benefits is given. Then descriptive explanation about different yoga styles has been explained with the guideline about who all can benefit from it. This will help the user streamline the kind of practice they wish to enroll for.
+    * Images of the various yoga style has been added to give a visual overview of the different styles of yoga. 
+    * It also has a clickable link 'here' that directs the user to the gallery.html page so that they can have a look of the photos of the yoga classes.
+    
+
+
+       
+
+
  
 
 
@@ -73,3 +99,4 @@ Yoga for all is a website created for the studio 'Yoga for All' ´which is locat
 
 
 [def]: /docs/readme-images/landing.png
+[def2]: /docs/readme-images/form.png
