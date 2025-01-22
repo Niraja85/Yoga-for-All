@@ -31,6 +31,8 @@ Yoga for all is a website created for the studio 'Yoga for All' ´which is locat
     ![Favicon](/docs/readme-images/favicon.png)
 
     
+
+    
          
 
 
