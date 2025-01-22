@@ -70,7 +70,42 @@ Yoga for all is a website created for the studio 'Yoga for All' ´which is locat
     * Here a brief description about yoga and and its health benefits is given. Then descriptive explanation about different yoga styles has been explained with the guideline about who all can benefit from it. This will help the user streamline the kind of practice they wish to enroll for.
     * Images of the various yoga style has been added to give a visual overview of the different styles of yoga. 
     * It also has a clickable link 'here' that directs the user to the gallery.html page so that they can have a look of the photos of the yoga classes.
+
+    ![Courses](/docs/readme-images/guide.png)
+
+    ![Type1](/docs/readme-images/yogatype1.png)
+
+    ![Type2](/docs/readme-images/yogatypes2.png)
+
+    ![Type3](/docs/readme-images/yogatype3.png)
+
+    ![Final](/docs/readme-images/yogatypes-final.png)
+
+### Calender page
+* Course Schedule
+    * The schedule is displayed in tabular columns with days of the week as headings. This gives the user a clear idea about the different classes being held so they can plan accordingly.
+    * The timings of the classes are displayed clearly and is made keeping in mind the work and school timings of the area, making it accessible to all age groups.
+    * The table is responsive and the column display layout varies based on the device the user is using.
+
+    ![Schedule](/docs/readme-images/class-schedule.png)
+
+### Gallery page
+* Gallery photos
+    * The Gallery will provide user with variety of photos that are close examples of different types of Yoga classes done in the studio.
+    * The gallery is responsive which will allow the user to view the photos on any device they are using.
+
+    ![Gallery](/docs/readme-images/gallery.png)
+
+
+
+
     
+
+
+
+
+
+
 
 
        
@@ -100,3 +135,6 @@ Yoga for all is a website created for the studio 'Yoga for All' ´which is locat
 
 [def]: /docs/readme-images/landing.png
 [def2]: /docs/readme-images/form.png
+[def3]: /docs/readme-images/yogatypes2.png
+[def4]: /docs/readme-images/courses.png
+[def5]: docs/readme-images/guide.png
