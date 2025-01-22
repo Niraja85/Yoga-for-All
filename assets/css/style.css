@@ -239,6 +239,11 @@ line-height: 1em;
     padding-right: 3%;
 }
 
+/* 404 error page */
+#error {
+    padding-top: 30%;
+}
+
 /* Footer */
 footer {
     background-color: rgba(13, 180, 185, 0.5); 
