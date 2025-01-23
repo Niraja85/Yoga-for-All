@@ -56,10 +56,12 @@ header a {
 /* Navbar dropdown toggle */
 nav {
     position: absolute;
+    background-color: white;
     width: 100%;
     left: 0;
     padding: 0 1rem;
     display: none;
+    box-shadow: 0 2px 2px black;
 }
 /* Nav toggle */
 #nav-toggle:checked~nav {
@@ -69,8 +71,8 @@ nav {
     display: none;
 }
 .nav-toggle-label {
-    font-size: 2rem;       
-}
+    font-size: 2rem;   
+       }      
 /* Main content */
 main {
     flex: 1 0 auto;
@@ -151,7 +153,7 @@ main {
 #courses {
     padding-left: 10px;
     padding-right: 10px;
-    padding-top: 10px;
+    padding-top: 60px;
 }
 #courses > section {
     background-color: #CEEDED;
@@ -282,24 +284,7 @@ footer {
 #social-media a:hover {
     color: orange;
 }
-/* Added this media query for mobile only to align the toggle menu option */
-/* Media query for mobile phones (min-width: 320px) and (max-width: 767px) */
-@media screen and (min-width: 320px) and (max-width: 767px) {
-   /* Header */
-    /* Giving border to dropdown menu  and aligning it to the right side */
-    #menu {
-    list-style-type: none;
-    padding: 0;
-    width: 200px;
-    background-color: #f1f1f1;
-    margin-top: 72px;
-     }
-   header nav {
-    display: flex;
-    justify-content: flex-end;
-   }  
 
-}
 /* Media query for large and landscape phones (400px and up) */
 @media screen and (min-width:400px) {
     /* Main content */
