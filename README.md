@@ -187,6 +187,154 @@ Manual Testing was performed to see if the website was accesible to all readers.
 
 * Navigation links
 
+Testing was performed to ensure all navigation links on the respective pages, navigated to the correct pages as per design. This was done by clicking on the navigation links on each page as shown below:
+
+Home page - index.html
+Courses page - courses.html
+Calender page - calender.html
+Gallery page - gallery.html
+
+Links on all pages navigated to the correct pages as exptected.
+
+* Contact Form testing
+
+The contact form on the home page was tested to ensure it functioned as expected when correct data was entered and when incorrect data was entered. The following test scenarios were covered:
+
+_Scenario One - Correct Inputs_
+
+Steps to test:
+
+1. Navigate to [Yoga for All - Home page](https://niraja85.github.io/Yoga-for-All/index.html)
+
+2. Scroll down to the contact form section and input the following data:
+
+    - First name: Joe
+    - Last name : Müller
+    - Email Address : joe@gmail.com
+    - Message: This is a test
+
+3. Click 'Submit'
+
+4. User should be directed to thankyou.html confirmation page.  
+
+Expected:
+
+Form submmission should be with no warnings or errors and user is redirected to thankyou.html confirmation page.
+
+Actual:
+
+Website behaved as expected with no errors or warnings and redirected to thankyou.html.
+
+_Scenario Two - Missing Required Field First Name_
+
+Steps to test:
+
+1. Navigate to [Yoga for All - Home page](https://niraja85.github.io/Yoga-for-All/index.html)
+
+2. Scroll down to the contact form section and input the following data:
+
+    - First name:
+    - Last name : Müller
+    - Email Address : joe@gmail.com
+    - Message: This is a test
+
+3. Click 'Submit'
+
+Expected:
+
+The form does not submit and an error is displayed to tell the user that the field is required.
+
+Actual:
+
+Website behaved as expected, error message was displayed and the form did not submit.
+
+
+_Scenario three - Missing last name field_
+
+Steps to test:
+
+1. Navigate to [Yoga for All - Home page](https://niraja85.github.io/Yoga-for-All/index.html)
+
+2. Scroll down to the contact form section and input the following data:
+
+    - First name: Joe
+    - Last name: 
+    - Email Address: Joe@gmail.com
+    - Message: This is a test
+3. Click 'Submit'
+
+Expected:
+
+The form does not submit and an error is displayed to tell the user that the field is required.
+
+Actual:
+
+Website behaved as expected, error message was displayed and the form did not submit.
+
+
+_Scenario four- Missing Email address field_
+
+Steps to test:
+
+1. Navigate to [Yoga for All - Home page](https://niraja85.github.io/Yoga-for-All/index.html)
+
+2. Scroll down to the contact form section and input the following data:
+
+    - First name: Joe
+    - Last name: Müller
+    - Email Address: 
+    - Message: This is a test.
+
+3. Click 'Submit'
+
+Expected:
+
+The form does not submit and an error is displayed to tell the user that the field is required.
+
+Actual:
+
+Website behaved as expected, error message was displayed and the form did not submit.
+
+_Scenario five- Incorrect email format_
+
+Steps to check:
+
+1.  Navigate to [Yoga for All - Home page](https://niraja85.github.io/Yoga-for-All/index.html)
+
+2. Scroll down to the contact form section and input the following data:
+
+    - First name: Joe
+    - Last name: Müller 
+    - Email Address: Joegmail
+    - Message: This is a test
+
+3. Click 'Submit'
+
+Expected:
+
+The form does not submit and an error is displayed to tell the user that the correct email address is required.
+
+Actual:
+
+Website behaved as expected, error message was displayed and the form did not submit.
+
+* Footer social-media Icons / Links
+
+The Font-Awesome social media icons were tested 
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
 
 
 
