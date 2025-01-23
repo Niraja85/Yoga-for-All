@@ -358,6 +358,33 @@ Behavior was as expected and my gmail account was opened ready to send an email 
 
 ### Validator Testing
 
+- HTML
+  - No errors were returned when passing through the official [W3C validator](https://validator.w3.org)
+
+
+  ![Home page validator results](/docs/readme-images/validator-home.png)
+
+  ![Courses page validator results](/docs/readme-images/validator-courses.png)
+
+  ![Calender page validator results](/docs/readme-images/validator-calender.png)
+
+  ![Gallery page validator results](/docs/readme-images/validator-gallery.png)
+
+- CSS
+     - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org)
+
+  ![CSS validator results](/docs/readme-images/validator-css.png)
+
+### Unfixed bugs
+Website was responsive on all devices but on landscape mode in mobile phones it behaved slightly differently with the variation seen in margin for header and main section. It could not be corrected even after putting various media queries.
+
+## Deployment
+
+### Gitpod
+
+
+
+
 
 
 
