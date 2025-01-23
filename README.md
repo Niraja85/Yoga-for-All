@@ -318,9 +318,49 @@ Actual:
 
 Website behaved as expected, error message was displayed and the form did not submit.
 
-* Footer social-media Icons / Links
+* Footer social-media Icons / Links:
 
 The Font-Awesome social media icons were tested to check if each of them opened in a new tab of their respective websites and when hovered upon turns orange for clicking.
+
+Each item opened a new tab when clicked as expected and correct hover color was present.
+
+* Footer contact information:
+
+ Testing was performed by clicking on the telephone number provided in the 'contact us' section in footer to ensure behaviour was as expected.
+
+ _Steps to test Telephone number_
+
+ 1. Navigate to [Yoga for All - Home page](https://niraja85.github.io/Yoga-for-All/index.html)
+
+ 2. Click on the 'Phone' in the footer (01 234 567 789)
+
+ Expected:
+
+ A window opens asking to start a call.
+
+ Actual:
+
+ Behavior was as expected, and a window opened to ask to open facetime and when selected opened a window for call from my iPhone.
+
+ _Steps to test the Email link_
+
+ 1. Navigate to [Yoga for All - Home page](https://niraja85.github.io/Yoga-for-All/index.html)
+
+ 2. Click on the email address in the footer (aiishniraja@gmail.com)
+
+ Expected:
+
+A windows popup is displayed from the default email application is asking to send an email.
+
+Actual:
+
+Behavior was as expected and my gmail account was opened ready to send an email to the target address.
+
+
+
+
+
+
 
 
 
