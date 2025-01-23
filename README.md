@@ -160,13 +160,32 @@ Expected Results:
    * No elements overlap.
 
 Actual Findings:
-    * Website behaved as expected on all the browsers including Google Chrome, Mozilla Firefox, Safari and Microsoft edge.
-    * Website was also opened on these devices and no responsive issues were seen:
+
+Website behaved as expected on all the browsers including Google Chrome, Mozilla Firefox, Safari and Microsoft edge.
+
+Website was also opened on these devices and no responsive issues were seen:
     
-    - Galaxy Z-Fold. 5
-    - IPhone SE
-    - Samsung Galaxy S20 Ultra
-    - Google Pixel 7
+1. Galaxy Z-Fold. 5
+2. IPhone SE
+3. Samsung Galaxy S20 Ultra
+4. Google Pixel 7
+
+### Accessibility
+
+Manual Testing was performed to see if the website was accesible to all readers. Aria -labels were added and Alt text was used for all images to make the website accessible to people with visual impairent and can use screen-readers.
+
+### Lighthouse Testing
+![Lighthouse testing Home Page](/docs/readme-images/LH-home.png)
+
+![Lighthouse testing Courses page](/docs/readme-images/LH-courses.png)
+
+![Lighthouse testing Calender page](/docs/readme-images/LH-calender.png)
+
+![Lighthouse testing gallery page](/docs/readme-images/LH-gallery.png)
+
+
+
+
 
 
 
