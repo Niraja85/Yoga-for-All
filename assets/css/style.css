@@ -153,7 +153,7 @@ main {
 #courses {
     padding-left: 10px;
     padding-right: 10px;
-    padding-top: 60px;
+    padding-top: 10px;
 }
 #courses > section {
     background-color: #CEEDED;
@@ -222,6 +222,9 @@ line-height: 1em;
     flex-basis: 200px;
     flex-grow: 1;
     border: 2px solid white;
+}
+.calender {
+    margin-top: 50px;
 }
 /* Changing the color of headings to match it to footer and have contrast to background color */
 #schedule h3 {
