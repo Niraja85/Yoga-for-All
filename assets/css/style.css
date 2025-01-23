@@ -314,17 +314,24 @@ main {
 @media screen and (min-width:768px) {
     /* Header */
 nav {
-    display: block;
-    box-shadow: none;
-    width: fit-content;
-    position: relative;
-    padding-right: 1rem;
-}
+        display: block;
+        box-shadow: none;
+        width: fit-content;
+        position: relative;
+        padding-right: 1rem;
+    }
+.nav-toggle-label {
+        display: none;
+    }
 #menu {
     display: flex;
 }
-menu > li {
+#menu > li {
     padding-left: 1rem;
+}
+#menu a:hover {
+    color: red;
+    font: bold;
 }
 
 /* Main content */
@@ -384,10 +391,6 @@ main h2 {
 /* Large screens (laptops and desktops, 992px and up) */
 /* Header */
 @media screen and (min-width: 992px){
-    #menu a:hover {
-        color: red;
-        font: bold;
-    }
     /* Main content */
     main {
         /* Push main content down to accomodate larger header and logo */
