@@ -382,6 +382,17 @@ Website was responsive on all devices but on landscape mode in mobile phones it 
 
 ### Gitpod
 
+Gitpod was used to create the website and then pushed to github to the remote repository for 'Yoga-for-All'.
+
+The following git commands were used to push code to the remote repo throughout the site development.
+
+```git add .``` - This command was used to add the codes to the staging area before they are committed.
+
+```git commit -m```- This command was used to commit changes to the local repository before they are pushed to github.
+
+```git push```- This command was used to push all committed code to the remote repository on github.
+
+
 
 
 
