@@ -279,6 +279,9 @@ footer {
     font-size: 20px;
     margin-top: 10px;
 }
+#social-media a:hover {
+    color: orange;
+}
 /* Added this media query for mobile only to align the toggle menu option */
 /* Media query for mobile phones (min-width: 320px) and (max-width: 767px) */
 @media screen and (min-width: 320px) and (max-width: 767px) {

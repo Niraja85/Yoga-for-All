@@ -320,7 +320,11 @@ Website behaved as expected, error message was displayed and the form did not su
 
 * Footer social-media Icons / Links
 
-The Font-Awesome social media icons were tested 
+The Font-Awesome social media icons were tested to check if each of them opened in a new tab of their respective websites and when hovered upon turns orange for clicking.
+
+
+
+
 
 
 
