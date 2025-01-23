@@ -160,7 +160,16 @@ Expected Results:
    * No elements overlap.
 
 Actual Findings:
-    *
+    * Website behaved as expected on all the browsers including Google Chrome, Mozilla Firefox, Safari and Microsoft edge.
+    * Website was also opened on these devices and no responsive issues were seen:
+    
+    - Galaxy Z-Fold. 5
+    - IPhone SE
+    - Samsung Galaxy S20 Ultra
+    - Google Pixel 7
+
+    
+
 
 
 
