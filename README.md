@@ -183,6 +183,12 @@ Manual Testing was performed to see if the website was accesible to all readers.
 
 ![Lighthouse testing gallery page](/docs/readme-images/LH-gallery.png)
 
+### Functional Testing
+
+* Navigation links
+
+
+
 
 
 
