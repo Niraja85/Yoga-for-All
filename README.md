@@ -392,6 +392,33 @@ The following git commands were used to push code to the remote repo throughout 
 
 ```git push```- This command was used to push all committed code to the remote repository on github.
 
+### Deployment to github pages
+
+* The site was deployed using Github pages. The steps taken to deploy the project are as follows:
+    * In the GitHub repository, navigate to the Settings tab 
+    * From the menu on left select 'Pages'
+    * From the source section drop-down menu, select the 'branch': main, and the 'folder' to root.
+    * Click 'Save'.
+    * A live link will be displayed in green when published successfully.
+
+The live link can be found here - https://niraja85.github.io/Yoga-for-All/
+
+## Credits
+
+* The information on different yoga styles were taken from [YogaMedicine](https://yogamedicine.com/guide-types-yoga-styles/) and added to the courses page.
+* The design of the nav bar, toggle dropdown, the hero image and the gallery page was taken from [Love Running Project](https://niraja85.github.io/love-running/). I added the menu section on the right side using flex.
+* The images on the gallery page were downloaded from [Pixabay](https://pixabay.com/) and optimised for webpages using [Web Optimiser](https://tinypng.com/)
+* Valuable suggestions and ideas to align images were given by my mentor Gareth Mc.Girr.
+
+### Future implementations
+
+* Lighthouse testing's performance scores can be improved by optimising the images in a better way.
+* Using Balsamiq to create wireframes can be added.
+
+
+
+
+
 
 
 
