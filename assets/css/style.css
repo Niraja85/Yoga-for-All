@@ -50,6 +50,11 @@ header a {
     padding-right: 20px;
     padding-left: 10px;
 }
+#menu a:hover {
+    color: red;
+    font: bold;
+}
+
 .active {
     font-weight: bold;
 }
@@ -329,11 +334,6 @@ nav {
 #menu > li {
     padding-left: 1rem;
 }
-#menu a:hover {
-    color: red;
-    font: bold;
-}
-
 /* Main content */
 main {
     /* Push main content down to accomodate larger header and logo */

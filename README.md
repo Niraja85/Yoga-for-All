@@ -408,12 +408,13 @@ The live link can be found here - https://niraja85.github.io/Yoga-for-All/
 * The information on different yoga styles were taken from [YogaMedicine](https://yogamedicine.com/guide-types-yoga-styles/) and added to the courses page.
 * The design of the nav bar, toggle dropdown, the hero image and the gallery page was taken from [Love Running Project](https://niraja85.github.io/love-running/). I added the menu section on the right side using flex.
 * The images on the gallery page were downloaded from [Pixabay](https://pixabay.com/) and optimised for webpages using [Web Optimiser](https://tinypng.com/)
-* Valuable suggestions and ideas to align images were given by my mentor Gareth Mc.Girr.
+* Valuable suggestions and ideas for image alignment and general project guidelines were given by my mentor Gareth Mc.Girr.
 
 ### Future implementations
 
 * Lighthouse testing's performance scores can be improved by optimising the images in a better way.
 * Using Balsamiq to create wireframes can be added.
+
 
 
 
