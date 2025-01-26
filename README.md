@@ -133,6 +133,8 @@ Yoga for all is a website created for the studio 'Yoga for All' ´which is locat
     * Icons obtained from https://fontawesome.com/ were used as the Social media links in the footer section. 
 * Tinyjpg
     * https://tinyjpg.com/ was used to reduce the size of the images used throughout the website
+* CloudConvert
+    * https://cloudconvert.com/ was used to reduce the size of the images used throughout the website
 * Favicon.io
     * Favicon files were created at https://favicon.io/favicon-converter/  
 * Microsoft Word 
@@ -412,7 +414,7 @@ The live link can be found here - https://niraja85.github.io/Yoga-for-All/
 
 ### Future implementations
 
-* Lighthouse testing's performance scores can be improved by optimising the images in a better way.
+* Lighthouse performance scores can be improved by optimising the design across the website by using optimal images and texts.
 * Using Balsamiq to create wireframes can be added.
 
 
