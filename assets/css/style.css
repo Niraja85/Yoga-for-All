@@ -96,7 +96,7 @@ main {
 #hero {
     height: 750px;
     width: 100%;
-    background: url("../images/heroimage.jpg") no-repeat center center/cover;
+    background: url("../images/heroimage.webp") no-repeat center center/cover;
 }
 #cover-text {
     background-color: rgba(13, 180, 185, 0.5);
